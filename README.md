@@ -33,7 +33,6 @@ Testing:
 -> Power on the system and test the adaptive cruise control system by simulating vehicle distances and steering wheel movements.
 
 **How It Works**
-
 Distance Measurement: The ultrasonic sensors continuously measure the distance to nearby vehicles.
 Speed Adjustment: Based on the distance readings, the system adjusts the speed of the vehicle by controlling throttle/brake.
 Overtake Detection: If the driver moves the steering wheel (detected by the LIS3DSH accelerometer), the system triggers an overtake mode, temporarily overriding the cruise control.
@@ -43,5 +42,4 @@ Black-Box Logging: The ESP32 communicates with the cloud, sending real-time vehi
 This project is created for the benefit of learning please feel free to use the codes and design ideas as you like, but please contribute to developing this project more effectively by adding more optimized and efficient code.
 
 **Core Contributors**
-
 **AKSHIT BANGARWA** **SHRADDHA ANKUSH MANE** **SWAJAL KUMAR JHA** **VAIBHAVI PRAMOD SHAHARE** **VELEGU VENKATA KOONAL** 
