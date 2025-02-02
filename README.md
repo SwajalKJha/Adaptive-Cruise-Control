@@ -1,1 +1,1 @@
-
+An adaptive cruise control system built with an STM32 Discovery board uses ultrasonic sensors to adjust vehicle speed based on distance to other vehicles. Features include overtake detection via LIS3DSH accelerometer and cloud data logging via CAN and ESP32, offering real-time black-box functionality for vehicle tracking.
