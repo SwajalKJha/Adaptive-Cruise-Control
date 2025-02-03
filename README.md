@@ -64,4 +64,4 @@ This project is created for the benefit of learning please feel free to use the 
 
 **Core Contributors**
 
-**AKSHIT BANGARWA**, **SHRADDHA ANKUSH MANE**, **SWAJAL KUMAR JHA**, **VAIBHAVI PRAMOD SHAHARE** & **VELEGU VENKATA KOONAL** 
+**AKSHIT BANGARWA**, **SHRADDHA ANKUSH MANE**, **SWAJAL KUMAR JHA**, **VAIBHAVI PRAMOD SHAHARE** & **VELUGU VENKATA KOONAL** 
