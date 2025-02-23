@@ -48,6 +48,7 @@ This project implements an **Adaptive Cruise Control (ACC) System** using the **
 
 ## **License**
  **DO NOT USE THE PROJECT_REPORT.pdf for other uses, it is only meant as a read-only file**.
+ 
 This project is open-source and intended for educational purposes. Feel free to utilize and modify the code.
 Contributions for **optimization and efficiency improvements** are highly encouraged.
 
