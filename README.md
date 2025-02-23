@@ -47,7 +47,7 @@ This project implements an **Adaptive Cruise Control (ACC) System** using the **
 4. **Data Logging**: The **ESP32** transmits real-time vehicle telemetry to the cloud for future analysis.
 
 ## **License**
-This project is open-source and intended for educational purposes. Feel free to utilize and modify the code. Contributions for **optimization and efficiency improvements** are highly encouraged.
+This project is open-source and intended for educational purposes. Feel free to utilize and modify the code. **DO NOT USE THE PROJECT REPORT.pdf** Contributions for **optimization and efficiency improvements** are highly encouraged.
 
 ## **Core Contributors**
 - **Akshit Bangarwa**
